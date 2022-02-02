@@ -1,0 +1,33 @@
+Install-Package System.Diagnostics.DiagnosticSource -Version 5.0.0-preview.1.20120.5
+
+
+select * from LoginRegistration where RegistrationDetailsId=970148
+Select * from StudentRegistration where  CollegeId=474
+select * from StudentAddress where  CollegeId=474
+select * from EducationalDetails where  CollegeId=474
+select * from StudentPhotoDetails where   CollegeId=474
+select * from CourseProfile where  CollegeId=474
+select * from QualifyingExam where  CollegeId=474
+select * from StudentQualifyingExamSubject where CollegeId=474
+select * from CertificateDetails where  CollegeId=474
+select * from StudentAnswer where CollegeId=474
+select * from SubjectDetails where  CollegeId=474
+select * from PGTransactions where  CollegeId=474
+select * from CourseWisePageLinkStatus where  CollegeId=474
+
+
+https://subscription.packtpub.com/book/web-development/9781783282654/1/ch01lvl1sec06/top-6-features-you-need-to-know-about
+
+College Create URL:
+
+https://onlineregistration.mastersofterp.in/Admin/CollegeRegistration/Register
+
+Datatabele url:
+https://www.aspsnippets.com/Articles/Using-jQuery-DataTables-in-ASPNet-MVC.aspx
+
+command git:
+https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal
+https://opensource.com/article/18/1/step-step-guide-git
+
+
+
